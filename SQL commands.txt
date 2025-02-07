@@ -1,0 +1,8 @@
+#to create the table 
+CREATE TABLE stock_data (stock_ticker varchar(4) PRIMARY KEY  ,debt_to_equity float ,
+profit_margin float , PE float ,beta float, market_cap float)
+
+#to access the table
+SELECT * FROM stock_data
+
+
