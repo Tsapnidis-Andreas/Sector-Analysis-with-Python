@@ -22,5 +22,6 @@ The steps taken to complete the analysis include:<br>
 2.	Creating a python script that retrieves financial data via the yfinance python library and analyzes them to derive key financial metrics that will be stored in a table in the database<br>
 3.	Running the script for the largest  American tech companies and using the results to create a dashboard with Power BI.<br>
 ## Results:
-![Στιγμιότυπο οθόνης 2025-02-07 174625](https://github.com/user-attachments/assets/ba940bca-f53e-417c-857b-c9b4666eecac)
-![Στιγμιότυπο οθόνης 2025-02-07 174652](https://github.com/user-attachments/assets/1ecd669b-b84f-46e9-ade3-253ea33cd61b)
+![Στιγμιότυπο οθόνης 2025-02-07 174625](https://github.com/user-attachments/assets/cf1307b4-de28-42eb-b4b2-9f24b18b9f36)
+
+![Στιγμιότυπο οθόνης 2025-02-07 174652](https://github.com/user-attachments/assets/7d184056-6d1e-4244-95e5-263242f58753)
